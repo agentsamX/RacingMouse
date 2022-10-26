@@ -22,9 +22,9 @@ int LMB_APIN = A0;
 int RMB_APIN = A1;
 int STEERING_APIN=A2;
 
-int LMB_AVALUE = 0;
-int RMB_AVALUE = 0;
-int STEERING_AVALUE = 0;
+int LMB_AVALUE = 128;
+int RMB_AVALUE = 128;
+int STEERING_AVALUE = 128;
 
 void setup() {
   // Initialize Button Pins
@@ -33,9 +33,9 @@ void setup() {
  
   // Initialize Joystick Library
   Joystick.begin();
-  Joystick.setAcceleratorRange(-512,512);
-  Joystick.setBrakeRange(-512,512);
-  Joystick.setSteeringRange(-512,512);
+  Joystick.setAcceleratorRange(0,256);
+  Joystick.setBrakeRange(0,256);
+  Joystick.setSteeringRange(0,256);
 
 }
 
@@ -58,9 +58,10 @@ void loop() {
   }
 
   //Read analog pin values
-  LMB_AVALUE = analogRead(LMB_APIN);
-  RMB_AVALUE = analogRead(RMB_APIN);
-  STEERING_AVALUE = analogRead(STEERING_APIN);
+  //Need to adjust based on sensors
+  LMB_AVALUE = analogRead(LMB_APIN)/4;
+  RMB_AVALUE = analogRead(RMB_APIN)/4;
+  STEERING_AVALUE = analogRead(STEERING_APIN)/4;
 
   Joystick.setAccelerator(LMB_AVALUE);
   Joystick.setBrake(RMB_AVALUE);
