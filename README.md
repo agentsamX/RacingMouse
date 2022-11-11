@@ -1,6 +1,7 @@
 # RacingMouse
 <br>
-Roles and responsibilities
+Roles and responsibilities :
+<br>
 <br>
 Harry Smith : Interactive scene design / component designer
 <br>
