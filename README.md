@@ -4,7 +4,10 @@ Roles and responsibilities
 <br>
 Harry Smith : Interactive scene design / component designer
 <br>
+<br>
 Samuel Canonaco : Electronics / component designer
+<br>
+<br>
 Link to exploded view animation https://youtu.be/oD0HpryY53w
 <br>
 Assignment 3:
