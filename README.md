@@ -2,14 +2,18 @@
 
 Link to exploded view animation https://youtu.be/oD0HpryY53w
 <br>
-Link to version control https://youtu.be/UiJ7mEO2PY8
+Assignment 3:
+<br>
+Link to project progression/ fabrication process https://youtu.be/UiJ7mEO2PY8
 <br>
 Link to Electronics demonstrations
 <br>
-https://youtu.be/y0ylQKKgRWs
-<br>
 https://youtu.be/5V83Lmqjlxg
 <br>
-Link to Slicer/Fabrication Video
+Link to Interactive scene
+<br>
+https://youtu.be/y0ylQKKgRWs
+<br>
+Link to Slicer Video
 <br>
 https://youtu.be/tAyIxTriTpw
