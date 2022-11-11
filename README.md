@@ -9,3 +9,6 @@ Link to Electronics demonstrations
 https://youtu.be/y0ylQKKgRWs
 <br>
 https://youtu.be/5V83Lmqjlxg
+Link to Slicer/Fabrication Video
+<br>
+https://youtu.be/tAyIxTriTpw
