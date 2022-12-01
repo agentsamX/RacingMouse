@@ -11,9 +11,9 @@ Samuel Canonaco : Electronics / component designer
 <br>
 Course Project:
 <br>
-Link to electronics photo [https://github.com/agentsamOTU/RacingMouse/blob/main/20221128_214450.jpg](https://raw.githubusercontent.com/agentsamOTU/RacingMouse/main/20221128_214450.jpg)
+Link to electronics photo https://raw.githubusercontent.com/agentsamOTU/RacingMouse/main/20221128_214450.jpg
 <br>
-Link to electronics schematics [https://github.com/agentsamOTU/RacingMouse/blob/main/Screenshot_2022-11-29_204714.png](https://raw.githubusercontent.com/agentsamOTU/RacingMouse/main/Screenshot_2022-11-29_204714.png)
+Link to electronics schematics https://raw.githubusercontent.com/agentsamOTU/RacingMouse/main/Screenshot_2022-11-29_204714.png
 <br>
 Link to interactive controller demonstration https://youtu.be/6uBp4vRtQWE
 <br>
