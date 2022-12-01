@@ -19,7 +19,7 @@ Link to interactive controller demonstration https://youtu.be/6uBp4vRtQWE
 <br>
 Link to presentation video https://youtu.be/VZlyi0CGqh0
 <br>
-This video features the RacingMouse being used in the commercial video game Drift21. The game features a test course that the player can drift around using the controller and a keyboard. Its purpose is to test your skills before you move onto actual timed races. The controller has inputs for acceleration, braking, and steering. Compared to using a typical mouse in your right hand, this controller gives a much more precise feeling experience. It allows the PC player to actually have sufficient levels of control over their car, while still retaining access to a keyboard. 
+This video features the RacingMouse being used in the commercial video game Drift21. The game features a test course that the player can drift around using the controller and a keyboard. Its purpose is to test your skills before you move onto actual timed races. The controller has inputs for acceleration, braking, and steering. Compared to using a typical mouse in your right hand, this controller gives a much more precise feeling experience. It allows the PC player to actually have sufficient levels of control over their car, while still retaining access to a keyboard. Additionally, the mouse has two leds that increase in brightness as the accelerate and brake buttons are pushed further down.
 <br>
 Assignment 3:
 <br>
