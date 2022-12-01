@@ -13,7 +13,8 @@ Course Project:
 <br>
 Link to interactive controller demonstration https://youtu.be/6uBp4vRtQWE
 <br>
-Link to exploded view animation https://youtu.be/oD0HpryY53w
+Link to presentation video https://youtu.be/VZlyi0CGqh0
+<br>
 <br>
 Assignment 3:
 <br>
@@ -30,3 +31,5 @@ Link to Electronics integration https://github.com/agentsamOTU/RacingMouse/blob/
 Link to 3D print information https://github.com/agentsamOTU/RacingMouse/blob/main/3DPrintedPartTimesAndCost.xlsx
 <br>
 Link to interactive scene draft https://github.com/agentsamOTU/RacingMouse/blob/main/Interactive%20Scene%20draft.pdf
+<br>
+Link to exploded view animation https://youtu.be/oD0HpryY53w
