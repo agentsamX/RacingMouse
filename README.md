@@ -19,6 +19,8 @@ Link to interactive controller demonstration https://youtu.be/6uBp4vRtQWE
 <br>
 Link to written report https://github.com/agentsamOTU/RacingMouse/blob/main/INFR_3380U__Industrial_Design_for_Game_Hardware_Written_Report.pdf
 <br>
+Link to timeline image https://github.com/agentsamOTU/RacingMouse/blob/main/INFR_3380U__Industrial_Design_for_Game_Hardware_Written_Report.pdf
+<br>
 Link to exploded view animation https://youtu.be/0zIDtcym9Jo
 <br>
 Link to presentation video https://youtu.be/VZlyi0CGqh0
