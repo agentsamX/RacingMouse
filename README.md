@@ -9,6 +9,10 @@ Harry Smith : Interactive scene design / component designer
 Samuel Canonaco : Electronics / component designer
 <br>
 <br>
+Course Project:
+<br>
+Link to interactive controller demonstration https://youtu.be/6uBp4vRtQWE
+<br>
 Link to exploded view animation https://youtu.be/oD0HpryY53w
 <br>
 Assignment 3:
