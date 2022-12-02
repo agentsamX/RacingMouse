@@ -25,22 +25,8 @@ Link to exploded view animation https://youtu.be/0zIDtcym9Jo
 <br>
 Link to presentation video https://youtu.be/VZlyi0CGqh0
 <br>
+Link to QFD https://github.com/agentsamOTU/RacingMouse/blob/main/QFD_EON.pdf
+<br>
+Link to SUS https://github.com/agentsamOTU/RacingMouse/blob/main/SUS%20Scale.pdf
+<br>
 This video features the RacingMouse being used in the commercial video game Drift21. The game features a test course that the player can drift around using the controller and a keyboard. Its purpose is to test your skills before you move onto actual timed races. The controller has inputs for acceleration, braking, and steering. Compared to using a typical mouse in your right hand, this controller gives a much more precise feeling experience. It allows the PC player to actually have sufficient levels of control over their car, while still retaining access to a keyboard. Additionally, the mouse has two leds that increase in brightness as the accelerate and brake buttons are pushed further down.
-<br>
-Assignment 3:
-<br>
-Link to project progression/ fabrication process https://youtu.be/UiJ7mEO2PY8
-<br>
-Link to Electronics demonstrations https://youtu.be/5V83Lmqjlxg
-<br>
-Link to Interactive scene https://youtu.be/y0ylQKKgRWs
-<br>
-Link to Slicer Video https://youtu.be/tAyIxTriTpw
-<br>
-Link to Electronics integration https://github.com/agentsamOTU/RacingMouse/blob/main/ElectronicsInMouse.jpg
-<br>
-Link to 3D print information https://github.com/agentsamOTU/RacingMouse/blob/main/3DPrintedPartTimesAndCost.xlsx
-<br>
-Link to interactive scene draft https://github.com/agentsamOTU/RacingMouse/blob/main/Interactive%20Scene%20draft.pdf
-<br>
-Link to exploded view animation https://youtu.be/oD0HpryY53w
